@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 20vw;
+    padding-right: 20vw;
+    
+}
+
+.search_field{
+    width: 30%;
+    
+}
+
+.input{
+    width: 90%;
+    height: 30px;
+}
